@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 📚 **Currently Learning**:
 - Core Cloud Engineering concepts such as how to containerise an application and deploy it to AWS.
 
-🌱 **Goals**:
-- To continuously improve my coding skills and learn best practices in software development.
-- To contribute to open-source projects and collaborate with other developers.
-
 💬 **Let's Connect**:
 - https://www.linkedin.com/feed/update/urn:li:activity:7213257462462775296/
 - keswanimoe@hotmail.co.uk
