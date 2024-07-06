@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Makers 8-week Modern Software Engineering Foundation Bootcamp
   
 🚀 **Projects**:
-- NeuroGames: Interactive memory 'snap' game with Unity using C# for Neuro 
+- NeuroGames: Interactive memory 'snap' game with Unity using C# for PJ Care 
 - Wealth Wizard: Mobile app prototype created for Empower Pennies Hackathon which prompts the user to enter file path to their monthly bank statement and using OCR technology and generative AI, outputs a categorised spending overview and financial advice based on spending data
 
 📚 **Currently Learning**:
