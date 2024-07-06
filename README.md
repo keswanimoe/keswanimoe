@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - Core Cloud Engineering concepts such as containerising and deploying an application to AWS.
 
 💬 **Let's Connect**:
-- https://www.linkedin.com/feed/update/urn:li:activity:7213257462462775296/
+- https://www.linkedin.com/in/moesha-keswani/
 - keswanimoe@hotmail.co.uk
 
