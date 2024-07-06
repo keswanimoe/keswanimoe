@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello! I’m Moesha, a mathematics graduate and aspiring software engineer passionate about coding and solving complex problems.
+👋 Hello! I’m Moesha, a mathematics graduate, former SAS Programmer and aspiring software engineer passionate about coding and solving complex problems.
 
 💻 **Skills**:
 - **Programming Languages**: Python, SAS, SQL, JavaScript, C#, HTML, CSS
