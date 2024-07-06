@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - **Tools & Technologies**: Git, VS Code, Flask, Juptyer, Jinja, Kivy
 
 🎓 **Education**:
-- Completed the Makers Foundations of Software Engineering Bootcamp, where I honed my skills in software development, problem-solving, and collaborative coding.
-
+- Completed the Makers 8-week Modern Foundations of Software Engineering Bootcamp
+  
 🚀 **Projects**:
 - NeuroGames: Interactive memory 'snap' game with Unity using C#
 - Wealth Wizard: Mobile app prototype created for Empower Pennies Hackathon which prompts user to enter file path to their monthly bank statement and using OCR technology and generative AI, outputs a categorised spending overview and financial advice based on spending data
