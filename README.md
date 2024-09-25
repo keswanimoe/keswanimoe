@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Wealth Wizard: Mobile app prototype created for Empower Pennies Hackathon which prompts the user to enter file path to their monthly bank statement and using OCR technology and generative AI, outputs a categorised spending overview and financial advice based on spending data
 
 📚 **Currently Learning**:
-- Core Cloud Engineering concepts such as containerising and deploying an application to AWS.
+- Working on a portfolio website, using the MERN stack
 
 💬 **Let's Connect**:
 - https://www.linkedin.com/in/moesha-keswani/
