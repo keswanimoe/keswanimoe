@@ -25,8 +25,15 @@ Here are some ideas to get you started:
 - Makers 8-week Modern Software Engineering Foundation Bootcamp
   
 🚀 **Projects**:
-- NeuroGames: Interactive memory 'snap' game with Unity using C# for PJ Care 
-- Wealth Wizard: Mobile app prototype created for Empower Pennies Hackathon which prompts the user to enter file path to their monthly bank statement and using OCR technology and generative AI, outputs a categorised spending overview and financial advice based on spending data
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [**HOSP Reliability Project**](https://www.youtube.com/watch?v=hBR_kHngVb4) | Makers Cloud Engineering Specialism bootcamp final project | AWS (EC2, Athena, CloudWatch), Nginx, Postman, SQL |
+| [**Wealth Wizard**](https://github.com/fechachris4/downloading-money)            | 🏆Empower Pennies Hackathon Winner🏆: A terminal app which prompts a user to enter the file path to their monthly bank statement jpg or pdf file and using OCR technology and generative AI, extracts text from the file to output a categorised spending overview with financial advice based on spending | Python, Tesseract, Firebase, OpenAI GPT-4, Kivy, Git, Panda             |
+| **NeuroGames** | Final Year University Project with PJ Care  | Unity, C#, Inkscape |
+| [**Hobby Page**](https://github.com/keswanimoe/Hobby-Page) | A personal Hobby Page project to refine my HTML, CSS and JavaScript skills  | HTML, JavaScript, CSS, Git |
+| [**Quiz App**](https://github.com/keswanimoe/quiz-app) | An interactive quiz app created as part of FDM's She Lives Tech Coding Bootcamp in March 2023  | HTML, JavaScript, CSS, JSON API (Open Trivia DB) |
+| [**Movie Data**](https://github.com/keswanimoe/Movie-Data/) | My first time trying Github deployments | Unity, C#, Inkscape |
+| [**Makers Invaders**](https://github.com/keswanimoe/makers_invaders) | A game created using Pygame inspired by the classic arcade game Space Invaders | Python |
 
 📚 **Currently Learning**:
 - Working on a portfolio website, using the MERN stack
