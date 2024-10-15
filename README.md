@@ -40,7 +40,8 @@ Check out my website! https://moesha-keswani.netlify.app/
 
 
 📚 **Currently Learning**:
-- Working on a portfolio website, using React
+- PHP programming, specifically to help with Wordpress volunteer work
+- Working on creating an end-to-end Airflow data pipeline 
 
 💬 **Let's Connect**:
 - https://www.linkedin.com/in/moesha-keswani/
